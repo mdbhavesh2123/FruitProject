@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837906040511",
+    "project_id": "fruit-1-2d8cc",
+    "storage_bucket": "fruit-1-2d8cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837906040511:android:a47f50aae83a81dba9280a",
+        "android_client_info": {
+          "package_name": "com.example.fruitproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aPhpDbA_HNWDJfMykzxHyQFIRVESrYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
